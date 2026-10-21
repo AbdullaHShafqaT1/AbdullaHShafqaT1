@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Abdullah Shafqat
-- 🌱 I’m currently learning Software Engineering at Fast NUCES
+- 🌱 I've done Bachelor's in Software Engineering from Fast NUCES
